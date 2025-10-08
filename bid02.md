@@ -13,6 +13,14 @@ One of our members has practical experience in translation and video editing, ha
 
 Our team also includes members with strong programming and software engineering backgrounds, allowing us to design and implement an efficient, AI-assisted video translation system that delivers natural and accurate multilingual outputs.
 
+## Team Member Profile
+
+- Ding Shao: Completed the **UI/UX Design and Interactive Systems Program** at the National University of Singapore (NUS) School of Computing, has hands-on experience on software engineering and user experience design. Has formal experience in machine learning and data processing.
+- Xiaoyan Gong: Member of a Youtuber's official translator team, experienced with using AI to translate and re-dub videos. Could give out suggestions in multiple aspects including the automation of video processing and choosing which AI framework to use.
+- Xuanchen Qian: Has foundational experience with AI model implemention in computer vision, could provide insight in video postprocess such lip synchronization.
+- Yijun Sun: Awarded third prize in the Dimension Cup National Mathematical Modeling Competition, capable for forming mathematical model for this project.
+- Yiqi Cheng: Has hands-on experience with Python and AI model implementation through participation in the FURP project. Demonstrates strong analytical thinking, adaptability, and an ability to apply algorithm strategies to practical applications.
+
 ---
 
 ## **Initial Project Ideas**

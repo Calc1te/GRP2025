@@ -14,6 +14,13 @@
 
 Our team is interested in exploring how technology can enhance personal fitness experiences through data analytics and embedded sensing systems. The “Smart Fitness Pod” project offers an exciting opportunity to design and develop an intelligent fitness platform that integrates real-time sensing, mobile applications, and personalized data visualization. This aligns closely with our collective experience in software development, data processing, and IoT system integration.
 
+- Ding Shao: Completed the **UI/UX Design and Interactive Systems Program** at the National University of Singapore (NUS) School of Computing, has hands-on experience on software engineering and user experience design. Has formal experience in machine learning and data processing.
+- Xiaoyan Gong: Has some experience on multi-sensor fusion, eager to develop some insight on embedding system. 
+- Xuanchen Qian: Familiar with Java programming, capable for buliding a backend system that can utilize database system and communicate with frontend
+- Yijun Sun: Awarded third prize in the Dimension Cup National Mathematical Modeling Competition, capable for building data analysis system for fitness data.
+- Yiqi Cheng: Has hands-on experience with Python and AI model implementation through participation in the FURP project. Demonstrates strong analytical thinking, adaptability, and an ability to apply algorithm strategies to practical applications.
+
+---
 
 ## Initial Project Ideas
 

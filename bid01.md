@@ -14,6 +14,14 @@
 
 Our team is motivated to participate in this simulation project, as most of our team members are either interested in how digital simulation can migrate to real-world scenarios or has some previous experience on robotics and digital-twin project. We consider that this project offers a decent opportunity to explore the knowledge of simulation, optimization algorithms, data management and so on. 
 
+## Team Member Profile
+
+- Ding Shao: Have solid experience in Python programming, was awarded the First Prize and Excellence Award in the Lanqiao Cup Python Creative Programming Competition.
+- Xiaoyan Gong: Captain and Leader of the Algorithm Group of the FOSE Robotics Team AIM, experienced in using NVIDIA Isaac simulator to configure and validate robots' algorithms.
+- Xuanchen Qian: Has taken part in a monocular depth estimation project before. Familiar with python and Java, could help build the backend of this system.
+- Yijun Sun: Awarded third prize in the Dimension Cup National Mathematical Modeling Competition, capable for forming mathematical model for AMR control in the simulation environment.
+- Yiqi Cheng: Has hands-on experience with Python and AI model implementation through participation in the FURP project. Demonstrates strong analytical thinking, adaptability, and an ability to apply algorithm strategies to practical applications.
+
 ## Initial Project Ideas
 
 To build the Robotic Mobile Fulfillment System (RMFS) Simulator, our initial concept focuses on developing a modular, extensible simulation framework that integrates warehouse environment modeling, autonomous robot control, and visualization. The key ideas and early technical considerations include:

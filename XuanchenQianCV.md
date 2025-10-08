@@ -19,5 +19,3 @@ My name is Xuanchen Qian, a Year 3 student majoring in Computer Science(CS) at t
 - Proven ability to collaborate effectively in team settings
 - Ability to learn new technologies and tools quickly 
 - Strong interest in digital simulation and robotics 
-
-
