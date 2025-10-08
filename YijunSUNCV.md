@@ -1,7 +1,7 @@
 # Yijun SUN – Profile Summary
 
 **Email:** scyys16@nottingham.edu.cn  
-**Phone number:** 15365292217 
+**Phone number:** 15365292217  
 **Institution:** University of Nottingham Ningbo China  
 **Programme:** BSc (Hons) Computer Science and Artificial Intelligence  
 
